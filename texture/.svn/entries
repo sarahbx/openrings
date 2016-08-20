@@ -1,0 +1,52 @@
+8
+
+dir
+5
+https://openrings.googlecode.com/svn/trunk/texture
+https://openrings.googlecode.com/svn
+
+
+
+2009-05-16T09:58:25.559944Z
+5
+xhub.com
+
+
+svn:special svn:externals svn:needs-lock
+
+=texture.lsl
+file
+
+
+
+
+2009-05-13T02:37:17.000000Z
+cf30921ccacd43cce6ce93f917a1244d
+2009-05-16T09:58:25.559944Z
+5
+xhub.com
+
+_replaceTextures.lsl
+file
+
+
+
+
+2009-05-13T02:38:27.000000Z
+311174f57ed9ce8b6746b7919e442d9b
+2009-05-16T09:58:25.559944Z
+5
+xhub.com
+
+_removeTextures.lsl
+file
+
+
+
+
+2009-05-13T02:37:54.000000Z
+601596291c3e5185fd80e75c2c91f98f
+2009-05-16T09:58:25.559944Z
+5
+xhub.com
+

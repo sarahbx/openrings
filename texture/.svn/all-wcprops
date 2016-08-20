@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/5/trunk/texture
+END
+=texture.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5/trunk/texture/=texture.lsl
+END
+_replaceTextures.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/trunk/texture/_replaceTextures.lsl
+END
+_removeTextures.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/texture/_removeTextures.lsl
+END
